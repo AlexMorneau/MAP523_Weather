@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  AlexMorneau_Weather
 //
-//  Created by user191445 on 4/10/21.
+//  Created by Alex Morneau on 4/6/21.
 //
 
 import UIKit
